@@ -1,5 +1,5 @@
 ## Simple React Advice App
 
-[Live Demo](https://link-url-here.org)
+[Live Demo](https://advice-app-for-ruslan.netlify.app/)
 
 
